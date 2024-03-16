@@ -1,4 +1,4 @@
-### Olá! Me chamo Hugo Daniel, Tudo bem ? 😁
+# Olá! Meu nome é Hugo Daniel 😁
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-daniel-profissional?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMhQqx%2BhpR5abS0MXZXaunQ%3D%3D)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danyell.santoss/)
@@ -17,9 +17,13 @@
     <img align="center" alt="HTML5" src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white/>
 </div></br>
 
+## Cursando Análise e Desenvolvimento de Sistemas (Universidade Augusto Motta – Unisuam) e um curso completo em Técnico de Administração, estou em constante busca pelo aprimoramento profissional. Atualmente, dedico minhas horas extras ao estudo de banco de dados da Oracle, ciente de sua importância no panorama tecnológico atual.
+
+## Essa abordagem proativa mostra não apenas o meu compromisso pessoal com o desenvolvimento contínuo, mas também minha determinação em contribuir de forma significativa para as equipes e projetos em que eu estiver envolvido. Acredito firmemente que a excelência profissional é uma jornada contínua, e estou comprometido em expandir meus conhecimentos e habilidades para acompanhar as demandas dinâmicas do mercado de trabalho.
+
 ## Contatos:
 
-E-mail: hugoprosantos@gmail.com</br>
-Celular/WhtasApp: 21 97652-7831
+### E-mail: hugoprosantos@gmail.com</br>
+### Celular/WhtasApp: 21 97652-7831
 
 ## Obrigado pela sua visualização! 🤓
