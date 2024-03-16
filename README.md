@@ -17,10 +17,6 @@
     <img align="center" alt="HTML5" src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white/>
 </div></br>
 
-Cursando Análise e Desenvolvimento de Sistemas (Universidade Augusto Motta – Unisuam) e um curso completo em Técnico de Administração, estou em constante busca pelo aprimoramento profissional. Atualmente, dedico minhas horas extras ao estudo intensivo de banco de dados da Oracle, ciente de sua importância no panorama tecnológico atual.
-
-Essa abordagem proativa reflete não apenas meu compromisso pessoal com o desenvolvimento contínuo, mas também minha determinação em contribuir de forma significativa para as equipes e projetos em que estiver envolvido. Acredito firmemente que a excelência profissional é uma jornada contínua, e estou comprometido em expandir meus conhecimentos e habilidades para acompanhar as demandas dinâmicas do mercado de trabalho.
-
 ## Contatos:
 
 E-mail: hugoprosantos@gmail.com</br>
