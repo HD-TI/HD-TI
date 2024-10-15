@@ -25,4 +25,3 @@
 
 ### E-mail: hugoprosantos@gmail.com</br>
 ### Celular/WhtasApp: 21 97652-7831
-### https://www.linkedin.com/in/hugo-daniel-profissional/?trk=opento_sprofile_details
