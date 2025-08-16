@@ -17,7 +17,7 @@
     <img align="center" alt="HTML5" src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white/>
 </div></br>
 
-## sou estudante de análise e desenvolvimento de sistemas na universidade: Centro Universitário IBMR - 2° período. Para complementar, eu também possuo uma formação técnica em administração com conhecimentos no pacote Office. Atualmente, estou em busca de uma oportunidade única. Ao longo do meu percurso acadêmico e estudos no curso da DBAOCM, tenho desenvolvido habilidades em programação, sistemas operacionais, análise e administração de banco de dados Oracle. tenho um perfil detalhado no LinkedIn, onde você pode explorar mais sobre minha trajetória profissional.
+## sou estudante de análise e desenvolvimento de sistemas na universidade: Centro Universitário IBMR - 4° período. Para complementar, eu também possuo uma formação técnica em administração com conhecimentos no pacote Office. Atualmente, estou em busca de uma oportunidade única. Ao longo do meu percurso acadêmico e estudos no curso da DBAOCM, tenho desenvolvido habilidades em programação, sistemas operacionais, análise e administração de banco de dados Oracle. tenho um perfil detalhado no LinkedIn, onde você pode explorar mais sobre minha trajetória profissional.
 
 ## Essa abordagem proativa mostra não apenas o meu compromisso pessoal com o desenvolvimento contínuo, mas também minha determinação em contribuir de forma significativa para as equipes e projetos em que eu estiver envolvido. Acredito firmemente que a excelência profissional é uma jornada contínua, e estou comprometido em expandir meus conhecimentos e habilidades para acompanhar as demandas dinâmicas do mercado de trabalho.
 
