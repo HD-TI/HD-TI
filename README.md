@@ -16,11 +16,9 @@
 ## Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas no Centro Universitário IBMR e busco minha primeira oportunidade profissional na área de Tecnologia da Informação.
 
 ## Ano a minha formação acadêmica em tecnologia a uma sólida base prática em administração e gestão de processos. Ao longo da minha trajetória, atuei na parametrização de sistemas ERP, criação de indicadores de desempenho e desenvolvimento de soluções automatizadas para otimização de rotinas operacionais.  
-No ecossistema técnico, possuo projetos acadêmicos e cursos focados em desenvolvimento Web (HTML, CSS, JavaScript, PHP), além de conhecimentos em modelagem de dados e consultas SQL (incluindo Oracle 12c Performance Tuning).
+## No ecossistema técnico, possuo projetos acadêmicos e cursos focados em desenvolvimento Web (HTML, CSS, JavaScript, PHP), além de conhecimentos em modelagem de dados e consultas SQL (incluindo Oracle 12c Performance Tuning).
 
 ## Estou em transição/foco total para a área de TI, com interesse em atuar com Desenvolvimento de Software, Análise de Dados, Suporte ou Implantação de Sistemas. Busco contribuir com dedicação, aprendizado contínuo e foco na entrega de soluções eficientes. 
-
-## Essa abordagem proativa mostra não apenas o meu compromisso pessoal com o desenvolvimento contínuo, mas também minha determinação em contribuir de forma significativa para as equipes e projetos em que eu estiver envolvido. Acredito firmemente que a excelência profissional é uma jornada contínua, e estou comprometido em expandir meus conhecimentos e habilidades para acompanhar as demandas dinâmicas do mercado de trabalho.
 
 ## Contatos:
 
